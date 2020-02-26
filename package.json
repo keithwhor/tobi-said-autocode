@@ -1,0 +1,8 @@
+{
+  "name": "tobi-said",
+  "author": "Keith Horwood <keith@polybit.com>",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest"
+  }
+}

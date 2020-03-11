@@ -7,5 +7,4 @@ https://www.youtube.com/watch?v=i92Ws7qPTRg
 
 This is an Autocode / Standard Library app that does exactly this.
 
-Click deploy to deploy it immediately from Standard Library, then open in
-Autocode (https://autocode.com) to make changes. :)
+Click **Open in Autocode** to modify code and authenticate against Slack, then deploy it immediately from Autocode to the Standard Library platform with a single click.

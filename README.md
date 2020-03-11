@@ -8,4 +8,4 @@ https://www.youtube.com/watch?v=i92Ws7qPTRg
 This is an Autocode / Standard Library app that does exactly this.
 
 Click deploy to deploy it immediately from Standard Library, then open in
-Autocode (https://autocode.com) to make changes.
+Autocode (https://autocode.com) to make changes. :)

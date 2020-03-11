@@ -1,5 +1,5 @@
 # Tobi Said Slackbot
-[<img src="https://deploy.stdlib.com/static/images/deploy.svg?hello" width="192">](https://deploy.stdlib.com/)
+[<img src="https://deploy.stdlib.com/static/images/deploy.svg" width="192">](https://deploy.stdlib.com/)
 
 https://www.youtube.com/watch?v=i92Ws7qPTRg
 
